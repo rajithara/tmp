@@ -1,4 +1,8 @@
 Hello world
 Another line...
 Yet another line..
+<<<<<<< HEAD
 A fourth line for the edit on the main branch only..
+=======
+A fourth line for the experimnental branch
+>>>>>>> experimental
